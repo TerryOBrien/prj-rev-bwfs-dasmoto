@@ -1,0 +1,52 @@
+
+
+
+
+
+.text
+{
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+text-align: center;
+width: 100%;
+}
+
+
+.img
+{
+  position: relative;
+  width: 100%;
+}
+
+.price
+{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+#brushes
+{
+  background-color: mediumspringgreen;
+}
+
+#frames
+{
+  background-color: coral;
+}
+
+#paint
+{
+  background-color: skyblue;
+}
+
+
+.topics
+ {
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
